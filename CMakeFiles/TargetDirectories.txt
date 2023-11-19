@@ -1,0 +1,3 @@
+/home/kayzi/code/cpp/CMakeFiles/matrix.dir
+/home/kayzi/code/cpp/CMakeFiles/edit_cache.dir
+/home/kayzi/code/cpp/CMakeFiles/rebuild_cache.dir
